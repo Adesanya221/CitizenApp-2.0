@@ -4,7 +4,7 @@ Project Overview
 CitizenApp-2.0 aims to provide a seamless experience for users to access essential civic resources. The project is structured for Firebase Hosting and includes the necessary configurations for deployment.
 
 Features
-✅ Firebase Hosting – Easily deployable and scalable
+✅ Firebase Hosting – Easily deployable and scalable https://citizenapp-1acc6.web.app
 ✅ Modern UI – Built with HTML, CSS, and JavaScript
 ✅ GitHub Integration – Version control and open-source collaboration
 
