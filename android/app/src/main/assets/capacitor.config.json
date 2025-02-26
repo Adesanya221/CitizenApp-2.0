@@ -1,0 +1,29 @@
+{
+	"appId": "com.citizenwatch.app",
+	"appName": "CitizenWatch",
+	"webDir": "public",
+	"bundledWebRuntime": false,
+	"plugins": {
+		"SplashScreen": {
+			"launchShowDuration": 2000,
+			"backgroundColor": "#FFFFFF",
+			"androidSplashResourceName": "splash",
+			"androidScaleType": "CENTER_CROP"
+		},
+		"StatusBar": {
+			"style": "dark",
+			"backgroundColor": "#FFFFFF"
+		},
+		"Geolocation": {
+			"permissions": [
+				"location",
+				"coarseLocation"
+			]
+		},
+		"Camera": {
+			"permissions": [
+				"camera"
+			]
+		}
+	}
+}
